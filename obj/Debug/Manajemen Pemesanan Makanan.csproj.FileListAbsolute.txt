@@ -1,0 +1,14 @@
+C:\Users\Rizki\source\repos\Manajemen Pemesanan Makanan\bin\Debug\Manajemen Pemesanan Makanan.exe.config
+C:\Users\Rizki\source\repos\Manajemen Pemesanan Makanan\bin\Debug\Manajemen Pemesanan Makanan.exe
+C:\Users\Rizki\source\repos\Manajemen Pemesanan Makanan\bin\Debug\Manajemen Pemesanan Makanan.pdb
+C:\Users\Rizki\source\repos\Manajemen Pemesanan Makanan\obj\Debug\Manajemen Pemesanan Makanan.csproj.AssemblyReference.cache
+C:\Users\Rizki\source\repos\Manajemen Pemesanan Makanan\obj\Debug\Manajemen_Pemesanan_Makanan.Form1.resources
+C:\Users\Rizki\source\repos\Manajemen Pemesanan Makanan\obj\Debug\Manajemen_Pemesanan_Makanan.Properties.Resources.resources
+C:\Users\Rizki\source\repos\Manajemen Pemesanan Makanan\obj\Debug\Manajemen Pemesanan Makanan.csproj.GenerateResource.cache
+C:\Users\Rizki\source\repos\Manajemen Pemesanan Makanan\obj\Debug\Manajemen Pemesanan Makanan.csproj.CoreCompileInputs.cache
+C:\Users\Rizki\source\repos\Manajemen Pemesanan Makanan\obj\Debug\Manajemen Pemesanan Makanan.exe
+C:\Users\Rizki\source\repos\Manajemen Pemesanan Makanan\obj\Debug\Manajemen Pemesanan Makanan.pdb
+C:\Users\Rizki\source\repos\Manajemen Pemesanan Makanan\obj\Debug\Manajemen_Pemesanan_Makanan.InputMenuMakanan.resources
+C:\Users\Rizki\source\repos\Manajemen Pemesanan Makanan\obj\Debug\Manajemen_Pemesanan_Makanan.DaftarMenu.resources
+C:\Users\Rizki\source\repos\Manajemen Pemesanan Makanan\obj\Debug\Manajemen_Pemesanan_Makanan.Pemesanan.resources
+C:\Users\Rizki\source\repos\Manajemen Pemesanan Makanan\obj\Debug\Manajemen_Pemesanan_Makanan.DaftarPemesanan.resources
